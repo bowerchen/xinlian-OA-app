@@ -1,4 +1,4 @@
-name: Waka Readme
+name: xinlian-OA-app CI
 
 on:
   workflow_dispatch:
@@ -8,9 +8,9 @@ on:
 
 jobs:
   update-readme:
-    name: Update this repo's README
     runs-on: ubuntu-latest
     steps:
-      - uses: athul/waka-readme@master
+      - name: Build
+      - uses: bowerchen/xinlian-OA-app@main
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
