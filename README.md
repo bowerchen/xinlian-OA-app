@@ -37,8 +37,6 @@
 ![考勤签到](./screenshots/view1.jpg)
 审批流程
 ![会议审批](./screenshots/view2.jpg)
-上传下载文件
-![上传下载文件](./screenshots/view3.jpg)
 
 
 
