@@ -1,10 +1,8 @@
 # 协同办公系统——移动端
 
 ## 背景
-该项目背景主要两点：
-
-1. 进一步熟悉前后端分离架构模式。
-2. 练习以uniapp框架开发的移动端应用, 其包含小程序、公众号等等。
+该前端主要以uniapp开发的微信小程序，后端采用Java + SpringBoot + MyBatis。
+进一步熟悉前后端分离架构模式。
 
 [协同办公系统-后端](https://github.com/bowerchen/xinlian-OA-service)
 
